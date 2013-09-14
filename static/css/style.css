@@ -16,7 +16,11 @@ canvas
     display: block;
     width: 800px;
     height: 600px;
+<<<<<<< HEAD:static/css/style.css
+    background: #4b4b4b url("../assets/transparentbg.png");
+=======
     background: #4b4b4b url("transparentbg.png");
+>>>>>>> master:sleepybob/style.css
     background-position: -100px, -200px;
 }
 
